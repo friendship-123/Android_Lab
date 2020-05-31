@@ -1,12 +1,12 @@
                                      安卓手机记事本开发
 
-![](H:\Android_Lab\notepad_mid\image\1.jpg)
+![](./image/1.png)
 
-![](H:\Android_Lab\notepad_mid\image\2.jpg)
+![](./image/2.png)
 
-![](H:\Android_Lab\notepad_mid\image\3.jpg)
+![](./image/3.png)
 
-![](H:\Android_Lab\notepad_mid\image\4.jpg)
+![](./image/4.png)
 
-![](H:\Android_Lab\notepad_mid\image\5.jpg)
+![](./image/5.png)
 
